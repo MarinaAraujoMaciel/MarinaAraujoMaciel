@@ -1,4 +1,5 @@
 - 👋 Olá, sou @MarinaAraujoMaciel
+- 🌱 Atualmente sou aluna na FATEC | Aprendendeno Linguagm Python
 - 📫 marinaangela864@gmail.com | marinaaangela@hotmail.com
 
 <!---
