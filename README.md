@@ -18,12 +18,12 @@ You can click the Preview link to take a look at your changes.
 - 🌱 Atualmente sou aluna na FATEC | Aprendendeno Linguagm Python
 - 📫 marinaangela864@gmail.com | marinaaangela@hotmail.com
 
-## Stacks:
+<!-- ## Stacks:
 
 
 [![Python](https://img.shields.io/badge/-Python-Yellow?style=flat-square&logo=Python&logoColor=White&link=https://github.com/MarinaAraujoMaciel/)](https://github.com/MarinaAraujoMaciel)
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/MarinaAraujoMaciel/)](https://github.com/MarinaAraujoMaciel/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/MarinaAraujoMaciel/)](https://github.com/MarinaAraujoMaciel/) -->
 
 ## Interesses principais em:
 
