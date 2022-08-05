@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 ## Hello Word! 👋
 
 - 👋 Olá, sou @MarinaAraujoMaciel
-- 🌱 Atualmente sou aluna na FATEC | Aprendendeno Linguagem Python
+- 🌱 Atualmente sou aluna na FATEC | Aprendendeno Linguagem Python | Desenvolvedor Front-End
 - 📫 marinaangela864@gmail.com | marinaaangela@hotmail.com
 
 
