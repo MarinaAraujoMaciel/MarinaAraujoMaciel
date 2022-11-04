@@ -24,4 +24,6 @@ You can click the Preview link to take a look at your changes.
 [![Desenvolvimento Web](http://img.shields.io/badge/-Desenvolvimento%20Web-Purple?style=flat-square&logo=Internet-explorer&logoColor=White&link=https://github.com/MarinaAraujoMaciel/)](https://github.com/MarinaAraujoMaciel/)
 ---
 
+
+
  ![Snake animation](https://github.com/MarinaAraujoMaciel/MarinaAraujoMaciel/blob/main/imagem/snake.svg)
