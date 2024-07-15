@@ -23,6 +23,10 @@ You can click the Preview link to take a look at your changes.
 
 [![Desenvolvimento Web](http://img.shields.io/badge/-Desenvolvimento%20Web-Purple?style=flat-square&logo=Internet-explorer&logoColor=White&link=https://github.com/MarinaAraujoMaciel/)](https://github.com/MarinaAraujoMaciel/)
 ---
+[![Gestão de Projetos](http://img.shields.io/badge/-Desenvolvimento%20Web-Purple?style=flat-square&logo=Internet-explorer&logoColor=White&link=https://github.com/MarinaAraujoMaciel/)](https://github.com/MarinaAraujoMaciel/)
+---
+[![Gerenciamento de Equipes](http://img.shields.io/badge/-Desenvolvimento%20Web-Purple?style=flat-square&logo=Internet-explorer&logoColor=White&link=https://github.com/MarinaAraujoMaciel/)](https://github.com/MarinaAraujoMaciel/)
+---
 
 
 
