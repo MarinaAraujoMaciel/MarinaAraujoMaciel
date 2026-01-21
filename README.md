@@ -20,9 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Interesses principais em:
 
-[![Desenvolvimento Web](http://img.shields.io/badge/-Desenvolvimento%20Web-Purple?style=flat-square&logo=Internet-explorer&logoColor=White&link=https://github.com/MarinaAraujoMaciel/)](https://github.com/MarinaAraujoMaciel/)
-[![Desenvolvimento Front-End](http://img.shields.io/badge/-Desenvolvimento%20Web-Purple?style=flat-square&logo=Internet-explorer&logoColor=White&link=https://github.com/MarinaAraujoMaciel/)](https://github.com/MarinaAraujoMaciel/)
-[![Banco de Dados SQL](http://img.shields.io/badge/-Desenvolvimento%20Web-Purple?style=flat-square&logo=Internet-explorer&logoColor=White&link=https://github.com/MarinaAraujoMaciel/)](https://github.com/MarinaAraujoMaciel/)
+[![Desenvolvimento Web](http://img.shields.io/badge/-Desenvolvimento%20Web-Purple?style=flat-square&logo=Internet-explorer&logoColor=White&link=https://github.com/MarinaAraujoMaciel/)]
 [![Gestão de Projetos](http://img.shields.io/badge/-Gestao%20de%20Projetos-Purple?style=flat-square&logo=Internet-explorer&logoColor=White&link=https://github.com/MarinaAraujoMaciel/)](https://github.com/MarinaAraujoMaciel/)
 [![Gerenciamento de Equipes](http://img.shields.io/badge/-Gestao%20de%20Equipes-Purple?style=flat-square&logo=Internet-explorer&logoColor=White&link=https://github.com/MarinaAraujoMaciel/)](https://github.com/MarinaAraujoMaciel/)
 
